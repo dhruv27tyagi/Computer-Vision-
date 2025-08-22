@@ -1,0 +1,1 @@
+This repository contains my journey through computer vision and computer vision projects.
